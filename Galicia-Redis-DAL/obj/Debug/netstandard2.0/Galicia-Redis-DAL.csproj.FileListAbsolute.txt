@@ -1,0 +1,8 @@
+C:\Users\omusmanno\Documents\Repositorios GIT\Galicia-Demo-Redis\Galicia-Demo-Redis\Galicia-Redis-DAL\bin\Debug\netstandard2.0\Galicia-Redis-DAL.deps.json
+C:\Users\omusmanno\Documents\Repositorios GIT\Galicia-Demo-Redis\Galicia-Demo-Redis\Galicia-Redis-DAL\bin\Debug\netstandard2.0\Galicia-Redis-DAL.dll
+C:\Users\omusmanno\Documents\Repositorios GIT\Galicia-Demo-Redis\Galicia-Demo-Redis\Galicia-Redis-DAL\obj\Debug\netstandard2.0\Galicia-Redis-DAL.csprojAssemblyReference.cache
+C:\Users\omusmanno\Documents\Repositorios GIT\Galicia-Demo-Redis\Galicia-Demo-Redis\Galicia-Redis-DAL\obj\Debug\netstandard2.0\Galicia-Redis-DAL.AssemblyInfoInputs.cache
+C:\Users\omusmanno\Documents\Repositorios GIT\Galicia-Demo-Redis\Galicia-Demo-Redis\Galicia-Redis-DAL\obj\Debug\netstandard2.0\Galicia-Redis-DAL.AssemblyInfo.cs
+C:\Users\omusmanno\Documents\Repositorios GIT\Galicia-Demo-Redis\Galicia-Demo-Redis\Galicia-Redis-DAL\bin\Debug\netstandard2.0\Galicia-Redis-DAL.pdb
+C:\Users\omusmanno\Documents\Repositorios GIT\Galicia-Demo-Redis\Galicia-Demo-Redis\Galicia-Redis-DAL\obj\Debug\netstandard2.0\Galicia-Redis-DAL.dll
+C:\Users\omusmanno\Documents\Repositorios GIT\Galicia-Demo-Redis\Galicia-Demo-Redis\Galicia-Redis-DAL\obj\Debug\netstandard2.0\Galicia-Redis-DAL.pdb
